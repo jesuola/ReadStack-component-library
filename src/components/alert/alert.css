@@ -1,0 +1,28 @@
+.alert {
+  position: fixed;
+
+  top: 20px;
+  right: 20px;
+
+  padding: 15px 20px;
+
+  border-radius: 8px;
+
+  color: white;
+
+  font-weight: 500;
+
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.success {
+  background-color: rgb(43, 43, 240);
+}
+
+.error {
+  background-color: #e74c3c;
+}
+
+.warning {
+  background-color: #f39c12;
+}
