@@ -56,7 +56,3 @@ https://github.com/jesuola/ReadStack-component-library
 2. Enter the project directory
 3. 3. Install dependencies
 4. Start the development server
-
-## 👩‍💻 Author
-
-Built as a React reusable component library project.
