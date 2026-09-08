@@ -54,5 +54,5 @@ https://github.com/jesuola/ReadStack-component-library
 
 1. Clone the repository
 2. Enter the project directory
-3. 3. Install dependencies
+3. Install dependencies
 4. Start the development server
