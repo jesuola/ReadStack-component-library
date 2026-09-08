@@ -1,16 +1,62 @@
-# React + Vite
+#  Nexus-frontEnd-Task2
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#  ReadStack Component Library
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+ReadStack is a reusable React component library presented through a simple digital library interface. The project was built to demonstrate component-based development, reusable UI design, props, state management, and interactive React components.
 
-## React Compiler
+The demo application allows users to browse featured books, view book details in a modal, and interact with reusable interface components.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Live Demo
 
-## Expanding the ESLint configuration
+**Live Deployment:**  
+https://read-stack-component-library.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## GitHub Repository
+
+**Repository link:**  
+https://github.com/jesuola/ReadStack-component-library
+
+##  Features
+
+- Reusable React UI components
+- Digital library demo interface
+- Featured book cards
+- Book cover images
+- Book details modal
+- Reusable buttons
+- Reusable input component
+- Alert notifications
+- Loading state
+
+## Reusable Components
+-Button
+-Props
+- Input
+-Card
+-BookCard
+-Modal
+- Loader
+-State Management
+
+
+##  Technologies Used
+
+- React
+- JavaScript
+- CSS
+- Vite
+- Git
+- GitHub
+- Vercel
+
+## Running the Project Locally
+
+1. Clone the repository
+2. Enter the project directory
+3. 3. Install dependencies
+4. Start the development server
+
+## 👩‍💻 Author
+
+Built as a React reusable component library project.
